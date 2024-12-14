@@ -1,2 +1,2 @@
 # Dev-cnfp-team2
-this is developer team of cnfp
+this is read me file
