@@ -1,3 +1,2 @@
 
-info text version 4.0 
-
+info text version 6.0
