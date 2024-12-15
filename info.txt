@@ -1,1 +1,1 @@
-info text version1
+info text version2.0
